@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**sjdev06/sjdev06** is a # 💫 About Me:
+# 💫 About Me:
 👋 Hi, I’m Saket Jha<br><br>🔭 Currently exploring the sweet spot between backend development, problem-solving, and real-world applications<br>👯 Open to collaborating on hands-on projects that solve practical, real-life problems<br>🤝 Actively improving my organizational skills, project structuring, and clean development workflows<br>🌱 Currently learning Node.js, Express, databases, and modern full-stack fundamentals<br>💬 Ask me about Java basics, backend logic, Firebase, CRUD APIs, and learning projects from scratch<br>⚡ Fun fact: I believe understanding why code works matters more than just making it run 🚀
 
 
@@ -31,16 +28,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/saket_jha) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
